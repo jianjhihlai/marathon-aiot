@@ -1,0 +1,80 @@
+{
+    "@iot.count": 3,
+    "value": [
+        {
+            "description": "溫度",
+            "@iot.id": 3,
+            "name": "Temperature",
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "observedArea": {
+                "type": "Point",
+                "coordinates": [
+                    121.687045,
+                    25.111078
+                ]
+            },
+            "phenomenonTime": "2021-02-06T06:01:19.000Z/2021-02-06T10:01:19.000Z",
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)",
+            "unitOfMeasurement": {
+                "name": "degree celsius",
+                "symbol": "°C",
+                "definition": "https://en.wikipedia.org/wiki/Celsius"
+            },
+            "ObservedProperty@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)/ObservedProperty",
+            "Sensor@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)/Sensor",
+            "Thing@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)/Thing",
+            "Observations@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)/Observations"
+        },
+        {
+            "description": "相對溼度",
+            "@iot.id": 2,
+            "name": "Relative humidity",
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "observedArea": {
+                "type": "Point",
+                "coordinates": [
+                    121.687045,
+                    25.111078
+                ]
+            },
+            "phenomenonTime": "2021-02-06T06:01:19.000Z/2021-02-06T10:01:19.000Z",
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(2)",
+            "unitOfMeasurement": {
+                "name": "percentage",
+                "symbol": "%",
+                "definition": "https://en.wikipedia.org/wiki/Percentage"
+            },
+            "ObservedProperty@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(2)/ObservedProperty",
+            "Sensor@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(2)/Sensor",
+            "Thing@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(2)/Thing",
+            "Observations@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(2)/Observations"
+        },
+        {
+            "description": "細懸浮微粒 PM2.5",
+            "@iot.id": 1,
+            "name": "PM2.5",
+            "observationType": "http://www.opengis.net/def/observationType/OGC-OM/2.0/OM_Measurement",
+            "observedArea": {
+                "type": "Point",
+                "coordinates": [
+                    121.687045,
+                    25.111078
+                ]
+            },
+            "phenomenonTime": "2021-02-06T06:01:19.000Z/2021-02-06T10:01:19.000Z",
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(1)",
+            "unitOfMeasurement": {
+                "name": "microgram per cubic meter",
+                "symbol": "μg/m3",
+                "definition": "https://acronyms.thefreedictionary.com/ug%2Fm3"
+            },
+            "ObservedProperty@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(1)/ObservedProperty",
+            "Sensor@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(1)/Sensor",
+            "Thing@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(1)/Thing",
+            "Observations@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(1)/Observations"
+        }
+    ]
+}

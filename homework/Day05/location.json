@@ -1,0 +1,21 @@
+{
+    "@iot.count": 1,
+    "value": [
+        {
+            "description": "智慧城鄉空品微型感測器-11113765144",
+            "encodingType": "application/vnd.geo+json",
+            "@iot.id": 1,
+            "location": {
+                "type": "Point",
+                "coordinates": [
+                    121.687045,
+                    25.111078
+                ]
+            },
+            "name": "智慧城鄉空品微型感測器-11113765144",
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Locations(1)",
+            "Things@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Locations(1)/Things",
+            "HistoricalLocations@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Locations(1)/HistoricalLocations"
+        }
+    ]
+}

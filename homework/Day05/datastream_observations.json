@@ -1,0 +1,1006 @@
+{
+    "@iot.count": 123,
+    "@iot.nextLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Datastreams(3)/Observations?$skip=100",
+    "value": [
+        {
+            "@iot.id": 426212017,
+            "phenomenonTime": "2021-02-06T08:01:19.000Z",
+            "result": 21.44,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426212017)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426212017)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426212017)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426212017)/Datastream"
+        },
+        {
+            "@iot.id": 425085521,
+            "phenomenonTime": "2021-02-06T07:01:19.000Z",
+            "result": 22.07,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425085521)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425085521)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425085521)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425085521)/Datastream"
+        },
+        {
+            "@iot.id": 428436533,
+            "phenomenonTime": "2021-02-06T10:01:19.000Z",
+            "result": 19.08,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428436533)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428436533)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428436533)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428436533)/Datastream"
+        },
+        {
+            "@iot.id": 427332027,
+            "phenomenonTime": "2021-02-06T09:01:19.000Z",
+            "result": 20.83,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427332027)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427332027)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427332027)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427332027)/Datastream"
+        },
+        {
+            "@iot.id": 423972163,
+            "phenomenonTime": "2021-02-06T06:01:19.000Z",
+            "result": 24.66,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(423972163)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(423972163)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(423972163)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(423972163)/Datastream"
+        },
+        {
+            "@iot.id": 427442329,
+            "phenomenonTime": "2021-02-06T09:07:19.000Z",
+            "result": 20.89,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427442329)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427442329)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427442329)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427442329)/Datastream"
+        },
+        {
+            "@iot.id": 427408607,
+            "phenomenonTime": "2021-02-06T09:05:19.000Z",
+            "result": 20.92,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427408607)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427408607)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427408607)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427408607)/Datastream"
+        },
+        {
+            "@iot.id": 424053588,
+            "phenomenonTime": "2021-02-06T06:05:19.000Z",
+            "result": 24.32,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424053588)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424053588)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424053588)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424053588)/Datastream"
+        },
+        {
+            "@iot.id": 427376073,
+            "phenomenonTime": "2021-02-06T09:03:19.000Z",
+            "result": 20.87,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427376073)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427376073)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427376073)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427376073)/Datastream"
+        },
+        {
+            "@iot.id": 424015905,
+            "phenomenonTime": "2021-02-06T06:03:18.000Z",
+            "result": 24.15,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424015905)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424015905)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424015905)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424015905)/Datastream"
+        },
+        {
+            "@iot.id": 424092068,
+            "phenomenonTime": "2021-02-06T06:07:19.000Z",
+            "result": 24.19,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424092068)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424092068)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424092068)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424092068)/Datastream"
+        },
+        {
+            "@iot.id": 424130958,
+            "phenomenonTime": "2021-02-06T06:09:19.000Z",
+            "result": 24.28,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424130958)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424130958)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424130958)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424130958)/Datastream"
+        },
+        {
+            "@iot.id": 424196867,
+            "phenomenonTime": "2021-02-06T06:13:19.000Z",
+            "result": 23.94,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424196867)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424196867)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424196867)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424196867)/Datastream"
+        },
+        {
+            "@iot.id": 425201517,
+            "phenomenonTime": "2021-02-06T07:07:18.000Z",
+            "result": 21.72,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425201517)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425201517)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425201517)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425201517)/Datastream"
+        },
+        {
+            "@iot.id": 424237046,
+            "phenomenonTime": "2021-02-06T06:15:19.000Z",
+            "result": 23.87,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424237046)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424237046)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424237046)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424237046)/Datastream"
+        },
+        {
+            "@iot.id": 425169473,
+            "phenomenonTime": "2021-02-06T07:05:19.000Z",
+            "result": 21.7,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425169473)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425169473)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425169473)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425169473)/Datastream"
+        },
+        {
+            "@iot.id": 424272585,
+            "phenomenonTime": "2021-02-06T06:17:19.000Z",
+            "result": 23.96,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424272585)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424272585)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424272585)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424272585)/Datastream"
+        },
+        {
+            "@iot.id": 424160520,
+            "phenomenonTime": "2021-02-06T06:11:19.000Z",
+            "result": 24.17,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424160520)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424160520)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424160520)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424160520)/Datastream"
+        },
+        {
+            "@iot.id": 425246187,
+            "phenomenonTime": "2021-02-06T07:09:19.000Z",
+            "result": 21.77,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425246187)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425246187)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425246187)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425246187)/Datastream"
+        },
+        {
+            "@iot.id": 425129903,
+            "phenomenonTime": "2021-02-06T07:03:19.000Z",
+            "result": 21.97,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425129903)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425129903)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425129903)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425129903)/Datastream"
+        },
+        {
+            "@iot.id": 425357738,
+            "phenomenonTime": "2021-02-06T07:15:19.000Z",
+            "result": 21.58,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425357738)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425357738)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425357738)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425357738)/Datastream"
+        },
+        {
+            "@iot.id": 425287170,
+            "phenomenonTime": "2021-02-06T07:11:19.000Z",
+            "result": 21.86,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425287170)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425287170)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425287170)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425287170)/Datastream"
+        },
+        {
+            "@iot.id": 425583345,
+            "phenomenonTime": "2021-02-06T07:27:19.000Z",
+            "result": 21.16,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425583345)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425583345)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425583345)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425583345)/Datastream"
+        },
+        {
+            "@iot.id": 425433895,
+            "phenomenonTime": "2021-02-06T07:19:18.000Z",
+            "result": 21.19,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425433895)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425433895)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425433895)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425433895)/Datastream"
+        },
+        {
+            "@iot.id": 425323226,
+            "phenomenonTime": "2021-02-06T07:13:18.000Z",
+            "result": 21.78,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425323226)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425323226)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425323226)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425323226)/Datastream"
+        },
+        {
+            "@iot.id": 425397100,
+            "phenomenonTime": "2021-02-06T07:17:19.000Z",
+            "result": 21.29,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425397100)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425397100)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425397100)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425397100)/Datastream"
+        },
+        {
+            "@iot.id": 425548386,
+            "phenomenonTime": "2021-02-06T07:25:19.000Z",
+            "result": 21.04,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425548386)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425548386)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425548386)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425548386)/Datastream"
+        },
+        {
+            "@iot.id": 425470491,
+            "phenomenonTime": "2021-02-06T07:21:19.000Z",
+            "result": 21.09,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425470491)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425470491)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425470491)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425470491)/Datastream"
+        },
+        {
+            "@iot.id": 425512331,
+            "phenomenonTime": "2021-02-06T07:23:19.000Z",
+            "result": 21.03,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425512331)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425512331)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425512331)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425512331)/Datastream"
+        },
+        {
+            "@iot.id": 426323250,
+            "phenomenonTime": "2021-02-06T08:07:19.000Z",
+            "result": 21.42,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426323250)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426323250)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426323250)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426323250)/Datastream"
+        },
+        {
+            "@iot.id": 425691560,
+            "phenomenonTime": "2021-02-06T07:33:18.000Z",
+            "result": 21.02,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425691560)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425691560)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425691560)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425691560)/Datastream"
+        },
+        {
+            "@iot.id": 426361594,
+            "phenomenonTime": "2021-02-06T08:09:18.000Z",
+            "result": 21.51,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426361594)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426361594)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426361594)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426361594)/Datastream"
+        },
+        {
+            "@iot.id": 425627055,
+            "phenomenonTime": "2021-02-06T07:29:19.000Z",
+            "result": 21.22,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425627055)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425627055)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425627055)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425627055)/Datastream"
+        },
+        {
+            "@iot.id": 426281785,
+            "phenomenonTime": "2021-02-06T08:05:19.000Z",
+            "result": 21.31,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426281785)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426281785)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426281785)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426281785)/Datastream"
+        },
+        {
+            "@iot.id": 426252897,
+            "phenomenonTime": "2021-02-06T08:03:18.000Z",
+            "result": 21.46,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426252897)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426252897)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426252897)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426252897)/Datastream"
+        },
+        {
+            "@iot.id": 426402348,
+            "phenomenonTime": "2021-02-06T08:11:19.000Z",
+            "result": 21.67,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426402348)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426402348)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426402348)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426402348)/Datastream"
+        },
+        {
+            "@iot.id": 425657497,
+            "phenomenonTime": "2021-02-06T07:31:19.000Z",
+            "result": 21.16,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425657497)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425657497)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425657497)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425657497)/Datastream"
+        },
+        {
+            "@iot.id": 426633158,
+            "phenomenonTime": "2021-02-06T08:23:19.000Z",
+            "result": 21.15,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426633158)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426633158)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426633158)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426633158)/Datastream"
+        },
+        {
+            "@iot.id": 426745252,
+            "phenomenonTime": "2021-02-06T08:29:18.000Z",
+            "result": 20.82,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426745252)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426745252)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426745252)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426745252)/Datastream"
+        },
+        {
+            "@iot.id": 426517424,
+            "phenomenonTime": "2021-02-06T08:17:19.000Z",
+            "result": 21.58,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426517424)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426517424)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426517424)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426517424)/Datastream"
+        },
+        {
+            "@iot.id": 426438862,
+            "phenomenonTime": "2021-02-06T08:13:19.000Z",
+            "result": 21.62,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426438862)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426438862)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426438862)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426438862)/Datastream"
+        },
+        {
+            "@iot.id": 426595101,
+            "phenomenonTime": "2021-02-06T08:21:19.000Z",
+            "result": 21.18,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426595101)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426595101)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426595101)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426595101)/Datastream"
+        },
+        {
+            "@iot.id": 426477447,
+            "phenomenonTime": "2021-02-06T08:15:19.000Z",
+            "result": 21.55,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426477447)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426477447)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426477447)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426477447)/Datastream"
+        },
+        {
+            "@iot.id": 426702380,
+            "phenomenonTime": "2021-02-06T08:27:19.000Z",
+            "result": 20.95,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426702380)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426702380)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426702380)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426702380)/Datastream"
+        },
+        {
+            "@iot.id": 426557343,
+            "phenomenonTime": "2021-02-06T08:19:19.000Z",
+            "result": 21.38,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426557343)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426557343)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426557343)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426557343)/Datastream"
+        },
+        {
+            "@iot.id": 426662952,
+            "phenomenonTime": "2021-02-06T08:25:19.000Z",
+            "result": 21.01,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426662952)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426662952)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426662952)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426662952)/Datastream"
+        },
+        {
+            "@iot.id": 426783602,
+            "phenomenonTime": "2021-02-06T08:31:19.000Z",
+            "result": 20.72,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426783602)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426783602)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426783602)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426783602)/Datastream"
+        },
+        {
+            "@iot.id": 426859332,
+            "phenomenonTime": "2021-02-06T08:35:19.000Z",
+            "result": 20.87,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426859332)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426859332)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426859332)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426859332)/Datastream"
+        },
+        {
+            "@iot.id": 427480665,
+            "phenomenonTime": "2021-02-06T09:09:18.000Z",
+            "result": 20.93,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427480665)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427480665)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427480665)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427480665)/Datastream"
+        },
+        {
+            "@iot.id": 426941155,
+            "phenomenonTime": "2021-02-06T08:39:19.000Z",
+            "result": 20.77,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426941155)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426941155)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426941155)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426941155)/Datastream"
+        },
+        {
+            "@iot.id": 426822425,
+            "phenomenonTime": "2021-02-06T08:33:18.000Z",
+            "result": 20.81,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426822425)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426822425)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426822425)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426822425)/Datastream"
+        },
+        {
+            "@iot.id": 427016962,
+            "phenomenonTime": "2021-02-06T08:43:19.000Z",
+            "result": 20.64,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427016962)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427016962)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427016962)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427016962)/Datastream"
+        },
+        {
+            "@iot.id": 426978910,
+            "phenomenonTime": "2021-02-06T08:41:19.000Z",
+            "result": 20.72,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426978910)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426978910)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426978910)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426978910)/Datastream"
+        },
+        {
+            "@iot.id": 426898116,
+            "phenomenonTime": "2021-02-06T08:37:19.000Z",
+            "result": 20.8,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426898116)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426898116)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426898116)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426898116)/Datastream"
+        },
+        {
+            "@iot.id": 427698844,
+            "phenomenonTime": "2021-02-06T09:21:18.000Z",
+            "result": 20.61,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427698844)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427698844)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427698844)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427698844)/Datastream"
+        },
+        {
+            "@iot.id": 427585213,
+            "phenomenonTime": "2021-02-06T09:15:18.000Z",
+            "result": 20.74,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427585213)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427585213)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427585213)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427585213)/Datastream"
+        },
+        {
+            "@iot.id": 427520851,
+            "phenomenonTime": "2021-02-06T09:11:19.000Z",
+            "result": 20.89,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427520851)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427520851)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427520851)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427520851)/Datastream"
+        },
+        {
+            "@iot.id": 427666000,
+            "phenomenonTime": "2021-02-06T09:19:19.000Z",
+            "result": 20.64,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427666000)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427666000)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427666000)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427666000)/Datastream"
+        },
+        {
+            "@iot.id": 427552088,
+            "phenomenonTime": "2021-02-06T09:13:19.000Z",
+            "result": 20.8,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427552088)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427552088)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427552088)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427552088)/Datastream"
+        },
+        {
+            "@iot.id": 427628977,
+            "phenomenonTime": "2021-02-06T09:17:19.000Z",
+            "result": 20.69,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427628977)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427628977)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427628977)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427628977)/Datastream"
+        },
+        {
+            "@iot.id": 427765129,
+            "phenomenonTime": "2021-02-06T09:25:18.000Z",
+            "result": 20.45,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427765129)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427765129)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427765129)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427765129)/Datastream"
+        },
+        {
+            "@iot.id": 427738591,
+            "phenomenonTime": "2021-02-06T09:23:19.000Z",
+            "result": 20.57,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427738591)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427738591)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427738591)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427738591)/Datastream"
+        },
+        {
+            "@iot.id": 427805811,
+            "phenomenonTime": "2021-02-06T09:27:19.000Z",
+            "result": 20.42,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427805811)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427805811)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427805811)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427805811)/Datastream"
+        },
+        {
+            "@iot.id": 427877094,
+            "phenomenonTime": "2021-02-06T09:31:19.000Z",
+            "result": 20.24,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427877094)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427877094)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427877094)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427877094)/Datastream"
+        },
+        {
+            "@iot.id": 427953543,
+            "phenomenonTime": "2021-02-06T09:35:19.000Z",
+            "result": 20.08,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427953543)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427953543)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427953543)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427953543)/Datastream"
+        },
+        {
+            "@iot.id": 428074706,
+            "phenomenonTime": "2021-02-06T09:41:19.000Z",
+            "result": 19.79,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428074706)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428074706)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428074706)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428074706)/Datastream"
+        },
+        {
+            "@iot.id": 428143973,
+            "phenomenonTime": "2021-02-06T09:45:19.000Z",
+            "result": 19.67,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428143973)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428143973)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428143973)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428143973)/Datastream"
+        },
+        {
+            "@iot.id": 428111523,
+            "phenomenonTime": "2021-02-06T09:43:18.000Z",
+            "result": 19.73,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428111523)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428111523)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428111523)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428111523)/Datastream"
+        },
+        {
+            "@iot.id": 428035378,
+            "phenomenonTime": "2021-02-06T09:39:18.000Z",
+            "result": 19.89,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428035378)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428035378)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428035378)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428035378)/Datastream"
+        },
+        {
+            "@iot.id": 427917296,
+            "phenomenonTime": "2021-02-06T09:33:19.000Z",
+            "result": 20.15,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427917296)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427917296)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427917296)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427917296)/Datastream"
+        },
+        {
+            "@iot.id": 427845473,
+            "phenomenonTime": "2021-02-06T09:29:19.000Z",
+            "result": 20.35,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427845473)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427845473)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427845473)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427845473)/Datastream"
+        },
+        {
+            "@iot.id": 427990961,
+            "phenomenonTime": "2021-02-06T09:37:19.000Z",
+            "result": 19.97,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427990961)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427990961)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427990961)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427990961)/Datastream"
+        },
+        {
+            "@iot.id": 428223052,
+            "phenomenonTime": "2021-02-06T09:49:19.000Z",
+            "result": 19.48,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428223052)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428223052)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428223052)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428223052)/Datastream"
+        },
+        {
+            "@iot.id": 428186710,
+            "phenomenonTime": "2021-02-06T09:47:18.000Z",
+            "result": 19.58,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428186710)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428186710)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428186710)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428186710)/Datastream"
+        },
+        {
+            "@iot.id": 428477020,
+            "phenomenonTime": "2021-02-06T10:03:19.000Z",
+            "result": 18.98,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428477020)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428477020)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428477020)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428477020)/Datastream"
+        },
+        {
+            "@iot.id": 428511027,
+            "phenomenonTime": "2021-02-06T10:05:19.000Z",
+            "result": 18.88,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428511027)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428511027)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428511027)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428511027)/Datastream"
+        },
+        {
+            "@iot.id": 428257026,
+            "phenomenonTime": "2021-02-06T09:51:19.000Z",
+            "result": 19.42,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428257026)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428257026)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428257026)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428257026)/Datastream"
+        },
+        {
+            "@iot.id": 428327870,
+            "phenomenonTime": "2021-02-06T09:55:19.000Z",
+            "result": 19.27,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428327870)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428327870)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428327870)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428327870)/Datastream"
+        },
+        {
+            "@iot.id": 428296882,
+            "phenomenonTime": "2021-02-06T09:53:18.000Z",
+            "result": 19.32,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428296882)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428296882)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428296882)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(428296882)/Datastream"
+        },
+        {
+            "@iot.id": 427052816,
+            "phenomenonTime": "2021-02-06T08:45:19.000Z",
+            "result": 20.62,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427052816)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427052816)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427052816)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(427052816)/Datastream"
+        },
+        {
+            "@iot.id": 424383999,
+            "phenomenonTime": "2021-02-06T06:23:18.000Z",
+            "result": 24.01,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424383999)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424383999)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424383999)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424383999)/Datastream"
+        },
+        {
+            "@iot.id": 424535811,
+            "phenomenonTime": "2021-02-06T06:31:19.000Z",
+            "result": 23.43,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424535811)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424535811)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424535811)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424535811)/Datastream"
+        },
+        {
+            "@iot.id": 424458473,
+            "phenomenonTime": "2021-02-06T06:27:19.000Z",
+            "result": 23.57,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424458473)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424458473)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424458473)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424458473)/Datastream"
+        },
+        {
+            "@iot.id": 424341277,
+            "phenomenonTime": "2021-02-06T06:21:19.000Z",
+            "result": 23.84,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424341277)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424341277)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424341277)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424341277)/Datastream"
+        },
+        {
+            "@iot.id": 424501941,
+            "phenomenonTime": "2021-02-06T06:29:18.000Z",
+            "result": 23.47,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424501941)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424501941)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424501941)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424501941)/Datastream"
+        },
+        {
+            "@iot.id": 424417254,
+            "phenomenonTime": "2021-02-06T06:25:19.000Z",
+            "result": 23.92,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424417254)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424417254)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424417254)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424417254)/Datastream"
+        },
+        {
+            "@iot.id": 424309764,
+            "phenomenonTime": "2021-02-06T06:19:19.000Z",
+            "result": 23.68,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424309764)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424309764)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424309764)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424309764)/Datastream"
+        },
+        {
+            "@iot.id": 424612633,
+            "phenomenonTime": "2021-02-06T06:35:19.000Z",
+            "result": 23.8,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424612633)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424612633)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424612633)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424612633)/Datastream"
+        },
+        {
+            "@iot.id": 424698280,
+            "phenomenonTime": "2021-02-06T06:39:19.000Z",
+            "result": 23.88,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424698280)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424698280)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424698280)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424698280)/Datastream"
+        },
+        {
+            "@iot.id": 424841680,
+            "phenomenonTime": "2021-02-06T06:47:18.000Z",
+            "result": 23.84,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424841680)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424841680)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424841680)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424841680)/Datastream"
+        },
+        {
+            "@iot.id": 424802111,
+            "phenomenonTime": "2021-02-06T06:45:19.000Z",
+            "result": 23.66,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424802111)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424802111)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424802111)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424802111)/Datastream"
+        },
+        {
+            "@iot.id": 424764217,
+            "phenomenonTime": "2021-02-06T06:43:19.000Z",
+            "result": 23.62,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424764217)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424764217)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424764217)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424764217)/Datastream"
+        },
+        {
+            "@iot.id": 424652595,
+            "phenomenonTime": "2021-02-06T06:37:19.000Z",
+            "result": 23.61,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424652595)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424652595)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424652595)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424652595)/Datastream"
+        },
+        {
+            "@iot.id": 424574912,
+            "phenomenonTime": "2021-02-06T06:33:19.000Z",
+            "result": 23.54,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424574912)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424574912)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424574912)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424574912)/Datastream"
+        },
+        {
+            "@iot.id": 424733384,
+            "phenomenonTime": "2021-02-06T06:41:18.000Z",
+            "result": 23.76,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424733384)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424733384)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424733384)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(424733384)/Datastream"
+        },
+        {
+            "@iot.id": 425731166,
+            "phenomenonTime": "2021-02-06T07:35:19.000Z",
+            "result": 21.15,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425731166)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425731166)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425731166)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425731166)/Datastream"
+        },
+        {
+            "@iot.id": 425953669,
+            "phenomenonTime": "2021-02-06T07:47:19.000Z",
+            "result": 21.93,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425953669)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425953669)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425953669)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425953669)/Datastream"
+        },
+        {
+            "@iot.id": 425807819,
+            "phenomenonTime": "2021-02-06T07:39:19.000Z",
+            "result": 21.26,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425807819)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425807819)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425807819)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425807819)/Datastream"
+        },
+        {
+            "@iot.id": 426064143,
+            "phenomenonTime": "2021-02-06T07:53:19.000Z",
+            "result": 21.62,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426064143)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426064143)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426064143)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(426064143)/Datastream"
+        },
+        {
+            "@iot.id": 425911884,
+            "phenomenonTime": "2021-02-06T07:45:19.000Z",
+            "result": 21.91,
+            "resultTime": null,
+            "@iot.selfLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425911884)",
+            "MultiDatastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425911884)/MultiDatastream",
+            "FeatureOfInterest@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425911884)/FeatureOfInterest",
+            "Datastream@iot.navigationLink": "https://sta.ci.taiwan.gov.tw/STA_AirQuality_EPAIoT/v1.0/Observations(425911884)/Datastream"
+        }
+    ]
+}
